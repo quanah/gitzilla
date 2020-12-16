@@ -65,7 +65,7 @@
 #      default: True
 #
 #      whether the update hook should allow commits which do not contain
-#      a bug number. True or false.
+#      a bug number. True or False.
 #
 #  * allowed_bug_states
 #
